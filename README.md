@@ -1,2 +1,2 @@
 # Moviles
-Repositorio para mla materia de aplicaciones móviles
+Repositorio para la materia de aplicaciones móviles.
